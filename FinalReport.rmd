@@ -82,9 +82,13 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+```{r}
+fisherXY(mydata$cappun,mydata$race)
+```
 
 ## More data version
 
+The fisherXY showed that all groups were statistically different from each other.
 
 # Discussion and Conclusion
 
